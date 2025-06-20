@@ -14,9 +14,9 @@ Site institucional moderno e responsivo para um Escritório de Advocacia. Desenv
 
 ## 📸 Screenshot
 
-![Preview](./img/preview.jpg)
+![Preview](./assets/img/preview-image.png)
 
-[👉 Clique aqui para visitar a página](https://vercel.app)
+[👉 Clique aqui para visitar a página](https://landing-page-advocacia-moderna.vercel.app/)
 
 ## 🎨 Tecnologias Utilizadas
 
